@@ -10,6 +10,17 @@ If you are wanting to help I'm currently looking for a graphic designer to creat
 Player will play as Colonel William Hill, a UN peace-keeper sent in response to reports of OpFor launching a hostile takeover of Altis. Due to the nature of the situation and the current relations between the UN and Altis, the UN could only send 2 Riflemen with the Colonel initially. The UN believe the Colonel and his men should be able to recruit remaining local militia by saving them from OpFor. Hill has also been authorized to seize OpFor vehicles if possible for the benefit of the mission. The end goal is to eliminate all OpFor forces on the island and return it to a free, independent state. How the player does this is largely up to them, as there is no set course of missions to follow.
 
 # Change log
+Beta Version 0.2.1 Released 11/18/2020
+- Fixed bug where side objectives weren't properly appearing
+- Tweeked some scripts to try and allow for "prisoner rescues"
+- Adjusted the starting enemies to make the beginning of the mission more achievable.
+
+Beta Version 0.2.0 Released 11/15/2020
+- Finished Southwest region
+- Updated Victory conditions
+- Added other objectives besides "clear location" objectives.
+- Finished Alpha! Now on to Beta!
+
 Alpha version 0.1.0 released! 11/7/2020
 - Finsihed first part of mission
 - Edited enemy placement to make the beginning rescues a little bit easier for the player(s)
